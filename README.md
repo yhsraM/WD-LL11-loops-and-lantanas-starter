@@ -1,4 +1,4 @@
-# 🌼 LL11: Loops & Lantanas – Dev Lab Challenge
+# 🌼 Loops & Lantanas – Dev Lab Challenge
 
 ## 🎓 About This Project
 
