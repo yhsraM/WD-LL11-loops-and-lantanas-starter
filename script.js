@@ -1,9 +1,9 @@
 // Initial rendering logic – to be refactored during the lab
 function addStations(stations) {
   // TODO: Refactor this loop using map() or forEach()
-  for (let i = 0; i < stations.length; i++) {
-    addStationElement(stations[i]);
-  }
+  stations.forEach(station => {
+    addStationElement(station);
+  });
 }
 
 // 🧪 TEAM FEATURES
